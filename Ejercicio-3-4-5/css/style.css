@@ -1,0 +1,29 @@
+body {
+    background-color: lightyellow;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    background-color: rgb(219, 179, 81);
+    margin-top: 0
+}
+h2 {
+    color: rgb(103, 134, 180);
+    font-weight: bold;
+}
+
+div {
+    line-height: 0mm;
+    margin-left: 32px;
+}
+
+.key {
+    color: darkblue;
+    font-weight: lighter;
+}
+
+.small-head {
+    color: darkblue;
+    font-size: large;
+    font-weight: bold;
+}
