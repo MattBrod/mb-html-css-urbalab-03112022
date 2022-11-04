@@ -1,0 +1,91 @@
+html {
+    background-color: grey;
+}
+
+body {
+    font-family: 'Lucida Sans Unicode';
+    background-color: white;
+    max-width: 900px;
+    margin: 15px 15px;
+    border-radius: 20px;
+    padding: 0 20%;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+h2 {
+    color: rgb(137, 204, 36);
+    border-bottom: 1px solid rgb(137, 204, 36);
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#orange {
+    color: rgb(202, 132, 4);
+}
+
+#green {
+    color:rgb(109, 164, 27);
+}
+
+#div1 {
+    float: left;
+    padding: 0;
+    width: 20%;
+}
+
+#wrapper {
+    overflow: hidden;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+li {
+    border: 1px solid rgb(123, 118, 118);
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(176, 214, 118);
+    color: rgb(77, 104, 145);
+}
+
+#current {
+    background-color: rgb(201, 153, 65);
+    color: black;
+}
+
+#div2 {
+    border: 1px solid grey;
+    padding: 15px;
+    float: right;
+    width: 75%;
+    text-align: justify;
+}
+
+.center {
+    margin: 0;
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    float: right;
+    color: rgb(204, 204, 204);
+}
+
+#line {
+    text-decoration: underline;
+}
