@@ -56,11 +56,13 @@ li {
     margin: 5px;
     padding: 5px;
     background-color: rgb(176, 214, 118);
+    background: linear-gradient(rgba(237,242,244,1) 0%, rgb(176, 214, 118) 100%);
     color: rgb(77, 104, 145);
 }
 
 #current {
     background-color: rgb(201, 153, 65);
+    background: linear-gradient(rgba(237,242,244,1) 0%, rgba(201,153,65,1) 100%);
     color: black;
 }
 
